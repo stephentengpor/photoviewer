@@ -1,6 +1,6 @@
 repositories{
   jcenter()
-  maven: {
+  maven {
     url: "https://repo.spring.io/plugins-release/"
   }
 }
